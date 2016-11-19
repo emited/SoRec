@@ -4,5 +4,5 @@
 
 * Evaluation of model using MovieLens data.
 
-[png!](images/sorec.png)
+![png](images/sorec.png)
 
